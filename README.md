@@ -1,6 +1,3 @@
-Here is the professional, emoji-free **README.md** code.
-
-Copy the code block below and paste it into your `README.md` file.
 
 ```markdown
 # Smart Inventory AI
@@ -235,4 +232,5 @@ Distributed under the MIT License. See LICENSE for more information.
 **Developed by SmartInv Engineering Team**
 
 ```
+
 
